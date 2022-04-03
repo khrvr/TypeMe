@@ -1,1 +1,3 @@
-i am a test text and i should appear in the text widget
+            tabs tabs   tabs
+   new line
+   tabs 
