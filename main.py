@@ -206,6 +206,7 @@ class CustomWindow(tk.Tk):
     def dump_data_and_quit(self):
         with open('stats.json', 'w') as f:
             json.dump([session_correct, session_mistakes, session_time], f)
+        self.quit()
         self.destroy()
 
     def show_stats(self):
