@@ -1,6 +1,6 @@
 # Typing trainer GUI
 
-## Usage
+## Run
 
 ```bash
 python3 main.py 
